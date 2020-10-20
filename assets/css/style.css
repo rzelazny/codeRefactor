@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -82,7 +82,7 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
