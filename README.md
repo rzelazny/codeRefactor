@@ -4,4 +4,4 @@ Refactoring a marketing agency's web site to conform to accessibility requiremen
 
 Updates include commenting code, grouping like code to remove redundanices and correcting minor issues including broken links and missing fonts.
 
-![Horiseon Page](codeRefactor/Horiseon page.png)
+![Horiseon Page](https://github.com/rzelazny/codeRefactor/blob/main/Horiseon%20page.png)
