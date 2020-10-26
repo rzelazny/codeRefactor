@@ -9,6 +9,6 @@ Code has had comments added and identical css classes have been grouped for ease
 Minor code corrections have been made to fix a broken link due to a missing id tag.
 
 ## Page preview
-![Horiseon Page](https://github.com/rzelazny/codeRefactor/blob/main/Horiseon%20page.png)
+![Horiseon Page](https://github.com/rzelazny/readMeImg/blob/main/Horiseon%20page.png)
 
 [Refactored Horiseon page](https://rzelazny.github.io/codeRefactor/)
