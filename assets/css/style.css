@@ -88,19 +88,19 @@ p {
 }
 
 /* Benefits section content formatting */
-.benefit-content{
+.benefits-content{
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /* Benefits section header formatting */
-.benefit-content h3{
+.benefits-content h3{
     margin-bottom: 10px;
     text-align: center;
 }
 
 /* Benefits section image formatting */
-.benefit-content img{
+.benefits-content img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
