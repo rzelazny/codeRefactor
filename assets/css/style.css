@@ -107,9 +107,7 @@ p {
 }
 
 /* Services content formatting */
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
+.services-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -119,16 +117,12 @@ p {
 }
 
 /* Services image formatting */
-.search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img{
+.services-content img{
     max-height: 200px;
 }
 
 /* Services header formatting */
-.search-engine-optimization h2,
-.online-reputation-management h2,
-.social-media-marketing h2{
+.services-content h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
